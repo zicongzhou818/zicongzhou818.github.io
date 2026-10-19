@@ -111,9 +111,16 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+About:
   type: liquid
-  path: /categories/
-tag_archive:
+  path: /about/      
+Publications:
   type: liquid
-  path: /tags/
+  path: /Publications/
+Education:
+  type: liquid
+  path: /Education/
+Work:
+  type: liquid
+  path: /Work/
+  
