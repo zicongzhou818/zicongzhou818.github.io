@@ -1,6 +1,6 @@
 ---
-title: "Work"
-permalink: /work/
-layout: work
+title: "Repositories"
+permalink: /Repositories/
+layout: single
 author_profile: true
 ---
