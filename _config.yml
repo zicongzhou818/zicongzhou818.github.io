@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Zicong Zhou"
   avatar : "/assets/images/port.jpg"
-  bio    : "I am a computational mathematician specialized in Deformation-Based Morphometry methods for Neuroscience research."
+  bio    : "I am a computational mathematician specialized in the theories and algorithms of advanced computational tools for Neuroscience research."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
