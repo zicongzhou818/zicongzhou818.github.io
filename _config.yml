@@ -113,11 +113,14 @@ defaults:
 
 About:
   type: liquid
-  path: /about/      
+  path: /about/   
+Research:
+  type: liquid
+  path: /research/
 Publications:
   type: liquid
   path: /Publications/
-Repositories:
-  type: liquid
-  path: /repositiries/
+# Repositories:
+#   type: liquid
+#   path: /repositiries/
   
