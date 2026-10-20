@@ -122,7 +122,8 @@ Research:
 Publications:
   type: liquid
   path: /publication/
-# Repositories:
-#   type: liquid
-#   path: /repositiries/
+  
+Repositories:
+  type: liquid
+  path: /repositiries/
   
