@@ -114,12 +114,14 @@ defaults:
 Bio:
   type: liquid
   path: /bio/   
+  
 Research:
   type: liquid
   path: /research/
+  
 Publications:
   type: liquid
-  path: /Publications/
+  path: /publication/
 # Repositories:
 #   type: liquid
 #   path: /repositiries/
