@@ -1,9 +1,9 @@
 main:
-  - title: "About me"
-    url: /about/
+  - title: "Bio"
+    url: /bio/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
-    url: /Publications/
-  - title: "Education"
-    url: /Education/
-  - title: "Work"
-    url: /Work/
+    url: /publications/
+  - title: "Repositories"
+    url: /repositories/
