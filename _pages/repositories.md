@@ -1,6 +1,6 @@
 ---
 title: "Repositories"
-permalink: /Repositories/
+permalink: /repositories/
 layout: single
 author_profile: true
 ---
