@@ -1,7 +1,11 @@
 ---
-permalink: /research/
 title: "Research"
+layout: single
+permalink: /research/
+
 ---
+
+
 
 My name is Zicong Zhou, a computational mathematician who has been developing the Deformation/Tensor-Based Morphometry (DBM/TBM) methods for neuroscience research. My primary research lies at the intersection of computational mathematics, numerical analysis, and neuroimage processing + analysis, for both relevant mathematical theories and practical applications to real-world neuroimage data, such as Magnetic Resonance Imaging (MRI) modalities T1, T2, diffusion-MRI, and functional-MRI. 
 
