@@ -111,9 +111,9 @@ defaults:
       layout: single
       author_profile: true
 
-About:
+Bio:
   type: liquid
-  path: /about/   
+  path: /bio/   
 Research:
   type: liquid
   path: /research/
