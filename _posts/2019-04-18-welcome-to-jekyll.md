@@ -1,7 +1,8 @@
 ---
 title: "From Computational Diffeomorphisms to Brain Atlas Construction for Neuroscience Research"
-categories:
-  - blog
+date: 2025-01-15
+layout: single
+pinned: true
 ---
 
 
